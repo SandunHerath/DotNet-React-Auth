@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eZVJRudATTisJMLC7zei4xpJOz0qBosMZdSvYWwLWbkNE3e4wJthNrRgN2SZbI7txsjVOYIUpCrpwQhBIpziiA==",
+  "dgSpecHash": "+QSGW7s6GRQ6fYh8ivu97xoWzyMb7sB9E5O9DnG7QbHJmNj9Oj98GVdO/8sZeaMCYS6t31IsEa87H3MG8gHnIA==",
   "success": true,
-  "projectFilePath": "E:\\.Net\\DotNet_Projects\\AuthenticationOne\\AuthenticationOne.csproj",
+  "projectFilePath": "E:\\.Net\\DotNet_Projects\\DotNet-React-Auth\\Authentication-Back\\AuthenticationOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandun\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Sandun\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

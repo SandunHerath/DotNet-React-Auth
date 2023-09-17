@@ -3608,11 +3608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.Net\\DotNet_Projects\\AuthenticationOne\\AuthenticationOne.csproj",
+      "projectUniqueName": "E:\\.Net\\DotNet_Projects\\DotNet-React-Auth\\Authentication-Back\\AuthenticationOne.csproj",
       "projectName": "AuthenticationOne",
-      "projectPath": "E:\\.Net\\DotNet_Projects\\AuthenticationOne\\AuthenticationOne.csproj",
+      "projectPath": "E:\\.Net\\DotNet_Projects\\DotNet-React-Auth\\Authentication-Back\\AuthenticationOne.csproj",
       "packagesPath": "C:\\Users\\Sandun\\.nuget\\packages\\",
-      "outputPath": "E:\\.Net\\DotNet_Projects\\AuthenticationOne\\obj\\",
+      "outputPath": "E:\\.Net\\DotNet_Projects\\DotNet-React-Auth\\Authentication-Back\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sandun\\AppData\\Roaming\\NuGet\\NuGet.Config",

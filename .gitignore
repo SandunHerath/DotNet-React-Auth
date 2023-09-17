@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+./auth-front/node_modules
+./auth-front/.pnp
+.pnp.js
+
+# testing
+./auth-front/coverage
+
+# production
+./auth-front/build
+
+# misc
+./auth-front/.DS_Store
+./auth-front/.env.local
+./auth-front/.env.development.local
+./auth-front/.env.test.local
+./auth-front/.env.production.local
+
+./auth-front/npm-debug.log*
+./auth-front/yarn-debug.log*
+./auth-front/yarn-error.log*
